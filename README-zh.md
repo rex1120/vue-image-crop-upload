@@ -30,7 +30,6 @@ IE10+
 $ npm install vue-image-crop-upload
 ```
 
-
 ## 使用
 #### Props
 | 名称              | 类型               | 默认             | 说明                                         |
